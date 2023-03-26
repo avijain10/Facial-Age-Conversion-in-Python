@@ -9,4 +9,5 @@ https://analyticsindiamag.com/hands-on-python-guide-to-style-based-age-manipulat
 
 This is the link to the Git Repo where a demo code for face transformation is given:
 https://github.com/yuval-alaluf/SAM/blob/master/notebooks/inference_playground.ipynb
+This is a google collab notebook code.
 
