@@ -24,4 +24,5 @@ https://big-data-demystified.ninja/2020/02/02/how-to-convert-colabs-notebook-int
 c)Easy youtube video on converting google collab notebook to python in VSC:
 https://www.youtube.com/watch?v=s4g_krovUp0
 
-
+d)Convert .py files runnable in VSCode/Python or Atom/Hydrogen to jupyter/colab .ipynb notebooks and vice versa
+https://pypi.org/project/colab-convert/
