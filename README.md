@@ -20,3 +20,8 @@ https://anvil.works/learn/tutorials/google-colab-to-web-app
 
 b)We have one more option of converting the google collab notebook to python code and then scheduling through apache airflow, but it seems quite complicated. Apache airflow https://airflow.apache.org is a free to use software.
 https://big-data-demystified.ninja/2020/02/02/how-to-convert-colabs-notebook-into-python-and-scheduling-it-in-apache-airflow/
+
+c)Easy youtube video on converting google collab notebook to python in VSC:
+https://www.youtube.com/watch?v=s4g_krovUp0
+
+
