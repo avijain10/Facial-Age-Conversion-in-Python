@@ -11,3 +11,10 @@ This is the link to the Git Repo where a demo code for face transformation is gi
 https://github.com/yuval-alaluf/SAM/blob/master/notebooks/inference_playground.ipynb
 This is a google collab notebook code.
 
+
+
+Ways to convert the google collab code into python script:
+
+a) By suing anvil, we can create a web app and connect it to the google collab, we have to do certain programming according to the frontend of the web app. In this way, we can work with the google collab and develop a web app as well. To see more details about anvil and the programming structure link the click below: 
+https://anvil.works/learn/tutorials/google-colab-to-web-app
+
