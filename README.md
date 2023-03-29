@@ -26,3 +26,5 @@ https://www.youtube.com/watch?v=s4g_krovUp0
 
 d)Convert .py files runnable in VSCode/Python or Atom/Hydrogen to jupyter/colab .ipynb notebooks and vice versa
 https://pypi.org/project/colab-convert/
+
+e)https://towardsdatascience.com/how-to-set-started-with-tensorflow-using-keras-api-and-google-colab-5421e5e4ef56
